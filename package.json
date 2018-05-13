@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/MercerWeiss/bitcore-build-komodo"
+    "url": "git://github.com/MercerWeiss/bitcore-build-komodo"
   },
   "keywords": [
     "bitcore"
